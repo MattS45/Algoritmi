@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Sortare_Interclasare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C8687F-94EB-4E80-A5E6-0CD7B7B118FC}|Sortare_Interclasare\\Sortare_Interclasare.vcxproj|D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Sortare_Interclasare\\Sortare_Interclasare\\sortare_interclasare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C8687F-94EB-4E80-A5E6-0CD7B7B118FC}|Sortare_Interclasare\\Sortare_Interclasare.vcxproj|solutionrelative:Sortare_Interclasare\\sortare_interclasare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortare_interclasare.cpp",
+              "DocumentMoniker": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Sortare_Interclasare\\Sortare_Interclasare\\sortare_interclasare.cpp",
+              "RelativeDocumentMoniker": "Sortare_Interclasare\\sortare_interclasare.cpp",
+              "ToolTip": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Sortare_Interclasare\\Sortare_Interclasare\\sortare_interclasare.cpp*",
+              "RelativeToolTip": "Sortare_Interclasare\\sortare_interclasare.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:41:50.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

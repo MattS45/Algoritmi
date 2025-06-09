@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Quick_Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543680E4-05F2-4C31-B95D-8A8D91B8EFE4}|Quick_Sort\\Quick_Sort.vcxproj|D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Quick_Sort\\Quick_Sort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{543680E4-05F2-4C31-B95D-8A8D91B8EFE4}|Quick_Sort\\Quick_Sort.vcxproj|solutionrelative:Quick_Sort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Quick_Sort\\Quick_Sort\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "Quick_Sort\\QuickSort.cpp",
+              "ToolTip": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\DivideEtImpera\\Quick_Sort\\Quick_Sort\\QuickSort.cpp",
+              "RelativeToolTip": "Quick_Sort\\QuickSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:43:00.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

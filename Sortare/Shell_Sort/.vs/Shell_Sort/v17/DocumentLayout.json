@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Shell_Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024F1817-A0AC-4378-B9EF-4B759B0D8071}|Shell_Sort\\Shell_Sort.vcxproj|D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Shell_Sort\\Shell_Sort\\ShellSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{024F1817-A0AC-4378-B9EF-4B759B0D8071}|Shell_Sort\\Shell_Sort.vcxproj|solutionrelative:Shell_Sort\\ShellSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShellSort.cpp",
+              "DocumentMoniker": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Shell_Sort\\Shell_Sort\\ShellSort.cpp",
+              "RelativeDocumentMoniker": "Shell_Sort\\ShellSort.cpp",
+              "ToolTip": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Shell_Sort\\Shell_Sort\\ShellSort.cpp",
+              "RelativeToolTip": "Shell_Sort\\ShellSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:43:44.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

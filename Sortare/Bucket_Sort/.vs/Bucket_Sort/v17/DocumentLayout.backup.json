@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Bucket_Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D252E9-3A7A-4B6F-A011-35A9B7D557C9}|Bucket_Sort\\Bucket_Sort.vcxproj|D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Bucket_Sort\\Bucket_Sort\\BucketSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04D252E9-3A7A-4B6F-A011-35A9B7D557C9}|Bucket_Sort\\Bucket_Sort.vcxproj|solutionrelative:Bucket_Sort\\BucketSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BucketSort.cpp",
+              "DocumentMoniker": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Bucket_Sort\\Bucket_Sort\\BucketSort.cpp",
+              "RelativeDocumentMoniker": "Bucket_Sort\\BucketSort.cpp",
+              "ToolTip": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Sortare\\Bucket_Sort\\Bucket_Sort\\BucketSort.cpp*",
+              "RelativeToolTip": "Bucket_Sort\\BucketSort.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:45:33.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

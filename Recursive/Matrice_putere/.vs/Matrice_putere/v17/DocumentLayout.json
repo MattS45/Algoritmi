@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Recursive\\Matrice_putere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AB71D1-55F4-4BCD-B97A-E6206CAE5E8E}|Matrice_putere\\Matrice_putere.vcxproj|D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Recursive\\Matrice_putere\\Matrice_putere\\matrice_putere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55AB71D1-55F4-4BCD-B97A-E6206CAE5E8E}|Matrice_putere\\Matrice_putere.vcxproj|solutionrelative:Matrice_putere\\matrice_putere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "matrice_putere.cpp",
+              "DocumentMoniker": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Recursive\\Matrice_putere\\Matrice_putere\\matrice_putere.cpp",
+              "RelativeDocumentMoniker": "Matrice_putere\\matrice_putere.cpp",
+              "ToolTip": "D:\\FACULTATE _CSIE_IE\\ATP SEM2\\Algoritmi\\Recursive\\Matrice_putere\\Matrice_putere\\matrice_putere.cpp",
+              "RelativeToolTip": "Matrice_putere\\matrice_putere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:39:41.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
