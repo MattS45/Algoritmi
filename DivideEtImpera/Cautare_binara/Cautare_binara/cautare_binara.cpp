@@ -37,7 +37,7 @@ int main() {
 		printf("\nRezultat : %d", rez);
 	}
 	else {
-		printf("Nu exista in mortii mei!!!");
+		printf("Nu exista");
 	}
 
 	return 0;
